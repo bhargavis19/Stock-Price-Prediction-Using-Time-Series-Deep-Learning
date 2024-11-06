@@ -1,4 +1,4 @@
-# Stock-Price-Prediction-Using-Time-Series-Deep-Learning-
+# Stock-Price-Prediction-Using-Time-Series-Deep-Learning
 
 # Univariate Time Series Forecasting
 
